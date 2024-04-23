@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chloe</h1>
-<h3 align="center">A passionate full stack developer and data scientist from China</h3>
+<h3 align="center">A passionate MSIM student at UIUC, hoping to become a full stack developer or data scientist</h3>
 
 - 🔭 I’m currently working on **Ease Lease**
 
